@@ -102,6 +102,6 @@ custom_proxy_group=🌐 其他地区`select`^(?!.*(港|HK|Hong Kong|日本|川�
 enable_rule_generator=true
 overwrite_original_rules=true
 
-;clash_rule_base=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GeneralClashConfig.yml
+clash_rule_base=https://raw.githubusercontent.com/TenYeung/rules/main/ClashConfig.yml
 
 ;luck
